@@ -11,11 +11,11 @@ I'm a software engineer interested in creating technology that is accessible. So
 - JUCE framework<br>
 - D3.js
 
-- ⚡ Fun facts:<br>
+⚡ Fun facts:<br>
 - I DJ and produce <a href="https://www.mixcloud.com/tech-house-club-mix/">House music </a>🏠🎵<br>
-- I taught public high school 🎓<br>
+- I taught public <a href="https://academyforteachers.org/teachers/fellows/2015-2016/">high school</a> 🎓<br>
 
-- 📫 How to reach me:
+-📫 How to reach me:
 <a href="https://www.linkedin.com/in/linda-eng/">LinkedIn</a>
 
 <!--
