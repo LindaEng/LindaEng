@@ -1,5 +1,6 @@
 ### Hello World! 👾 💾
 ---
+![Demo](Linda_Eng.gif)
 ---
 I'm a software engineer interested in creating technology that is accessible. Some technologies that I like using include React.js, Tone.js, D3.js, and GraphQL. I want to learn more about audio programming libraries and frameworks. Aside from coding, I'm into producing house music and going on long bike rides around NYC~
 
@@ -16,7 +17,7 @@ I'm a software engineer interested in creating technology that is accessible. So
 - I taught public <a href="https://academyforteachers.org/teachers/fellows/2015-2016/">high school</a> 🎓<br>
 
 📫 How to reach me:<br>
--<a href="https://www.linkedin.com/in/linda-eng/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/linda-eng/">LinkedIn</a>
 
 <!--
 **LindaEng/LindaEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
