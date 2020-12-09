@@ -15,8 +15,8 @@ I'm a software engineer interested in creating technology that is accessible. So
 - I DJ and produce <a href="https://www.mixcloud.com/tech-house-club-mix/">House music </a>🏠🎵<br>
 - I taught public <a href="https://academyforteachers.org/teachers/fellows/2015-2016/">high school</a> 🎓<br>
 
--📫 How to reach me:
-<a href="https://www.linkedin.com/in/linda-eng/">LinkedIn</a>
+📫 How to reach me:<br>
+-<a href="https://www.linkedin.com/in/linda-eng/">LinkedIn</a>
 
 <!--
 **LindaEng/LindaEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
