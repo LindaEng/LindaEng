@@ -2,7 +2,7 @@
 ---
 <img src="Linda_Eng.gif" width="100%">
 
-I'm a software engineer interested in creating technology that is accessible. Some technologies that I like using include React.js, Tone.js, D3.js, and GraphQL. I want to learn more about audio programming libraries and frameworks. Aside from coding, I'm into producing house music and going on long bike rides around NYC~<br><br>
+I'm a software engineer interested in design and functionality. Some technologies that I like using include React.js, Redux, Express, Tone.js, and PostgreSQL. I want to learn more about CSS animation and audio programming. Aside from coding, I'm into producing house music and going on long bike rides around NYC~<br><br>
 🔭 I’m currently working on:<br>
 - ASL card game<br>
 - Tone.js Synthesizer<br>
