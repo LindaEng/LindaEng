@@ -11,8 +11,8 @@ In my free time, I enjoy producing house music and going on long bike rides arou
 - Tone.js Synthesizer<br>
 
 🌱 I’m currently learning:<br>
-- JUCE framework<br>
-- D3.js
+- Elixir<br>
+- Phoenix, Ecto
 
 ⚡ Fun facts:<br>
 - I DJ and produce <a href="https://www.mixcloud.com/tech-house-club-mix/">House music </a>🏠🎵<br>
