@@ -6,9 +6,10 @@ As a software engineer with a strong passion for design and functionality, I am 
 <br>
 
 In my free time, I enjoy producing house music and going on long bike rides around NYC. These activities allow me to tap into my creative side and find inspiration for my work as a software engineer. I believe that a well-rounded and balanced approach to my professional and personal interests allows me to bring a fresh perspective to my work and stay motivated and engaged.<br><br>
+
 🔭 I’m currently working on:<br>
-- ASL card game<br>
-- Tone.js Synthesizer<br>
+- Live Chat App<br>
+- URL shortener<br>
 
 🌱 I’m currently learning:<br>
 - Elixir<br>
