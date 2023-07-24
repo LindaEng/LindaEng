@@ -1,8 +1,9 @@
 ### Hello World! 👾 💾
 ---
 <img src="Linda_Eng.gif" width="100%">
-
-As a software engineer with a strong passion for design and functionality, I am constantly seeking new opportunities to expand my technical skills and knowledge. I have extensive experience with technologies such as React.js, Redux, Express, Tone.js, and PostgreSQL, and am always looking for ways to deepen my understanding of these tools. Additionally, I am eager to learn more about CSS animation and audio programming, as I believe these skills would greatly enhance my ability to create dynamic and engaging user experiences.
+As a passionate software engineer, I am continuously driven to improve both design and functionality in my work. I actively seek out opportunities to expand my technical skills and knowledge. With extensive experience in technologies like React.js, Redux, Express, and PostgreSQL, I'm always eager to deepen my understanding of these tools.
+<br>
+To further broaden my horizons, I am currently dedicated to learning Elixir and Phoenix! It's an exciting journey, and I can't wait to see how these new skills will elevate my abilities as an engineer.
 <br>
 
 In my free time, I enjoy producing house music and going on long bike rides around NYC. These activities allow me to tap into my creative side and find inspiration for my work as a software engineer. I believe that a well-rounded and balanced approach to my professional and personal interests allows me to bring a fresh perspective to my work and stay motivated and engaged.<br><br>
