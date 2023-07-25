@@ -1,6 +1,6 @@
 ### Hello World! 👾 💾
 ---
-<img src="Linda_Eng.gif" width="40%">
+<img src="Linda_Eng.gif" width="100%">
 As a passionate software engineer, I am continuously driven to improve both design and functionality in my work. I actively seek out opportunities to expand my technical skills and knowledge. With extensive experience in technologies like React.js, Redux, Express, and PostgreSQL, I'm always eager to deepen my understanding of these tools.
 <br>
 To further broaden my horizons, I am currently dedicated to learning Elixir and Phoenix! It's an exciting journey, and I can't wait to see how these new skills will elevate my abilities as an engineer.
