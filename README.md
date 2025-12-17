@@ -1,25 +1,26 @@
-### Hello World! 👾 💾
+### Hello World! 👾💾
 ---
+
 <img src="Linda_Eng.gif" width="100%">
-As a passionate software engineer, I am continuously driven to improve both design and functionality in my work. I actively seek out opportunities to expand my technical skills and knowledge. With extensive experience in technologies like React.js, Redux, Express, and PostgreSQL, I'm always eager to deepen my understanding of these tools.
-<br>
-To further broaden my horizons, I am currently dedicated to learning Elixir and Phoenix! It's an exciting journey, and I can't wait to see how these new skills will elevate my abilities as an engineer.
-<br>
 
-In my free time, I enjoy producing house music and going on long bike rides around NYC. These activities allow me to tap into my creative side and find inspiration for my work as a software engineer. I believe that a well-rounded and balanced approach to my professional and personal interests allows me to bring a fresh perspective to my work and stay motivated and engaged.<br><br>
+I build learning tools powered by data and machine learning.  
+My focus is on turning messy information into clear, usable experiences that help people actually learn.
 
-🔭 I’m currently working on:<br>
-- Live Chat App<br>
-- URL shortener<br>
+I work across the stack with **React, TypeScript, Node.js, PostgreSQL, and AWS**, and I’m especially interested in how models, feedback loops, and system design come together in real products—not demos.
 
-🌱 I’m currently learning:<br>
-- Elixir<br>
-- Phoenix, Ecto
+Right now I’m exploring applied ML through hands-on projects and learning **Elixir and Phoenix** to better understand scalable, real-time systems.
 
-⚡ Fun facts:<br>
-- I DJ and produce <a href="https://www.mixcloud.com/tech-house-club-mix/">House music </a>🏠🎵<br>
-- I taught public <a href="https://academyforteachers.org/teachers/fellows/2015-2016/">high school</a> 🎓<br>
+Outside of engineering, I produce house music and bike around NYC.
 
-📫 How to reach me:<br>
-- <a href="https://www.linkedin.com/in/linda-eng/">LinkedIn</a>
+---
 
+🔭 **Working on**
+- AI-assisted learning tools  
+- Applied ML projects for feedback and personalization  
+
+🌱 **Learning**
+- Machine learning (applied, product-driven)  
+- Elixir, Phoenix, Ecto  
+
+📫 **Find me**
+- [LinkedIn](https://www.linkedin.com/in/linda-eng/)
